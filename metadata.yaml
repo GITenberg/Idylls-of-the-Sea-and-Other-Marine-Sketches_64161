@@ -1,0 +1,49 @@
+_repo: Idylls-of-the-Sea-and-Other-Marine-Sketches_64161
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Strachey, John St. Loe
+    aliases:
+    - St. Loe Strachey, John
+    - Strachey, J. St. Loe
+    birthdate: 1860
+    deathdate: 1927
+    gutenberg_agent_id: '2087'
+    url: http://www.gutenberg.org/2009/agents/2087
+    wikipedia: https://en.wikipedia.org/wiki/John_Strachey_(journalist)
+creator:
+  author:
+    agent_name: Bullen, Frank Thomas
+    alias: Bullen, Frank T. (Frank Thomas)
+    birthdate: 1857
+    deathdate: 1915
+    gutenberg_agent_id: '616'
+    url: http://www.gutenberg.org/2009/agents/616
+    wikipedia: https://en.wikipedia.org/wiki/Frank_Thomas_Bullen
+description: ''
+gutenberg_issued: '2020-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64161'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marine animals'
+- !lcsh 'Seafaring life'
+- !lcc 'PR'
+- !lcsh 'Sea stories'
+- GITenberg
+tableOfContents: 'Idylls of the sea: The passing of Peter. The loss of the first-born.
+  A true shark-story. The slaver. The cruise of the ''Daisy.'' ''Running the Easting
+  down.'' In the crow''s nest. The birth of an island. A submarine earthquake. The
+  silent warfare of the submarine world. An effect of refraction. A waking nightmare.
+  The derelict -- Studies in marine natural history: Some oceanic birds. The Kraken.
+  Concerning sharks. Flying-fish catching at Barbados. Unconventional fishing. Devil-fish.
+  Of turtle -- Other sketches: ''Hovelling.'' The loss of the ''St. George.'' The
+  truth about the Merchant Service. Cancer Cay. A nineteenth-century Jonah. The tragical
+  tale of the boomerang pig. A day on the Solander whaling-ground. Sea-elephants at
+  home. An interview. Up a waterspout.'
+title: Idylls of the Sea, and Other Marine Sketches
+url: http://www.gutenberg.org/ebooks/64161

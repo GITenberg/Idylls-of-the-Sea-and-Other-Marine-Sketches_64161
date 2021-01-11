@@ -1,5 +1,5 @@
 _repo: Idylls-of-the-Sea-and-Other-Marine-Sketches_64161
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Strachey, John St. Loe
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '2087'
     url: http://www.gutenberg.org/2009/agents/2087
     wikipedia: https://en.wikipedia.org/wiki/John_Strachey_(journalist)
+covers:
+- cover_type: archival
+  image_path: 64161-h/images/cover.jpg
 creator:
   author:
     agent_name: Bullen, Frank Thomas
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/616
     wikipedia: https://en.wikipedia.org/wiki/Frank_Thomas_Bullen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64161#Idylls-of-the-Sea-and-Other-Marine-Sketches
 gutenberg_issued: '2020-12-28'
 gutenberg_type: Text
 identifiers:
